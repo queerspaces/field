@@ -1,0 +1,226 @@
+body {
+
+height: 2750px;
+width: 3500px;
+
+margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+
+font-family: Futura, Impact, Helvetica, sans-serif;
+font-size: 100%;
+overflow: scroll;
+color: #ebbd34;
+
+background-image:
+
+url('https://i.imgur.com/GKmeGbN.jpg'),
+
+url('https://i.imgur.com/wH3lkO3.gif'),
+url('https://i.imgur.com/93Dqvk8.gif'),
+url('https://i.imgur.com/wH3lkO3.gif'),
+url('https://i.imgur.com/VWiVLvB.gif'),
+url('https://i.imgur.com/J2nnb7k.gif'),
+url('https://i.imgur.com/C8Vv0Su.gif'),
+url('https://i.imgur.com/Q3pENsq.gif'),
+url('https://i.imgur.com/C8Vv0Su.gif'),
+url('https://i.imgur.com/VWiVLvB.gif'),
+url('https://i.imgur.com/J2nnb7k.gif'),
+url('https://i.imgur.com/93Dqvk8.gif'),
+url('https://i.imgur.com/Q3pENsq.gif'),
+url('https://i.imgur.com/Q3pENsq.gif'),
+url('https://i.imgur.com/C8Vv0Su.gif'),
+url('https://i.imgur.com/VWiVLvB.gif'),
+url('https://i.imgur.com/wH3lkO3.gif'),
+url('https://i.imgur.com/J2nnb7k.gif'),
+url('https://i.imgur.com/93Dqvk8.gif'),
+
+
+url('https://i.imgur.com/gbw4RGf.jpg?1'),
+url('https://i.imgur.com/LwyTqWh.jpg'),
+url('https://i.imgur.com/zIiIquz.jpg'),
+	url('https://i.imgur.com/zIiIquz.jpg'),
+	url('https://i.imgur.com/Qrh7jv2.jpg'),
+	url('https://i.imgur.com/Q3pENsq.gif'),
+	  url('https://media.giphy.com/media/NWgylVa31IL3W/giphy.gif'),
+	  url('https://media.giphy.com/media/dl2c1a1xHklcJzCmCP/giphy.gif'),
+	  url('https://media.giphy.com/media/NCjZLDtRkvNQY/giphy.gif'),
+	  url('https://i.imgur.com/C8Vv0Su.gif'),
+	  url('https://media.giphy.com/media/Gv5zoNmJ0W6Ksj8dvl/giphy.gif'),
+	  url('https://i.imgur.com/J2nnb7k.gif'),
+	  url('https://media.giphy.com/media/BO8bU9IGd2hb8fUQcS/giphy.gif'),
+	  url('https://media.giphy.com/media/kC2z3NMwyU4kncmSXD/giphy.gif'),
+	  url('https://i.imgur.com/rRUsx14.gif'),
+	  url('https://i.imgur.com/hiJd6V8.jpg'),
+	  url('https://i.imgur.com/xI32B0T.gif'),
+	  url('https://i.imgur.com/EjVFh8B.jpg'),
+	  url('https://media.giphy.com/media/24mWuJpA45JwQ/giphy.gif'),
+	  url('https://media.giphy.com/media/l3q2Eli5I0jadFwuQ/giphy.gif'),
+	  url('https://i.imgur.com/jhMsYHv.jpg?1'),
+	  url('https://i.imgur.com/nzZEqxj.jpg'),
+	  url('https://i.imgur.com/5bCTXAz.jpg'),
+url('https://i.imgur.com/zIiIquz.jpg'),
+url('https://i.imgur.com/c1fPHfR.jpg'),
+url('https://i.imgur.com/Hj0M15l.jpg'),
+url('https://i.imgur.com/W276JeP.jpg?1');
+
+  background-repeat: no-repeat;
+
+  background-attachment: scroll;
+
+  background-position:
+1500px 2000px,
+
+2500px 800px,
+650px 900px,
+1500px 789px,
+2515px 2000px,
+3150px 40px,
+2580px 50px,
+3000px 2200px,
+700px 500px,
+150px 2000px,
+80px 1750px,
+1990px 2500px,
+2540px 399px,
+1070px 2500px,
+1200px 1900px,
+780px 1500px,
+250px 1300px,
+3010px 920px,
+2300px 1050px,
+
+0px 2500px,
+2500px 0px,
+1750px 10px,
+	3000px 2500px,
+	0px 900px,
+	745px 575px,
+	top right,
+	940px 550px,
+	bottom right,
+	1000px 5px,
+	850px 325px,
+	960px 550px,
+	1100px 350px,
+	1200px 250px,
+	80px 110px,
+	1000px 25px,
+	0px 325px,
+	100px 325px,
+	480px 175px,
+	350px 25px,
+	top left,
+	650px 75px,
+	500px 0px,
+0px 325px,
+0px 0px,
+2500px 500px,
+2750px 1250px;
+
+  background-size:
+600px 450px,
+
+312px 300px,
+	138px 137px,
+	230px 240px,
+	240px 224px,
+	250px 243px,
+	221px 240px,
+312px 300px,
+	138px 137px,
+	230px 240px,
+	240px 224px,
+	250px 243px,
+	221px 240px,
+312px 300px,
+	138px 137px,
+	230px 240px,
+	240px 224px,
+	250px 243px,
+	221px 240px,
+652px 489px,
+1500px 700px,
+auto,
+auto,
+auto,
+240px 211px,
+	195px 156px,
+	480px 480px,
+	312px 300px,
+	138px 137px,
+	230px 240px,
+	240px 224px,
+	250px 243px,
+	221px 240px,
+	240px 135px,
+	400px 385px,
+	auto,
+	468px 310px,
+	288px 126px,
+	240px 120px,
+	747px 447px,
+	456px 307px,
+	1000px 1050px,
+auto,
+auto,
+auto,
+auto;
+
+}
+
+div.hello{
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1300px;
+  right: -2130px;
+  width: 550px;
+  font-size: 20px;
+  background-color: white;
+
+}
+
+.audioPlayer{
+  display: block;
+ top: 300px;
+left: 1500px;
+}
+
+div.question{
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1800px;
+  right: -1530px;
+  width: 150px;
+  font-size: 40px;
+  background-color: white;
+}
+
+div.link1{
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1900px;
+  right: -1230px;
+  width: 350px;
+  font-size: 20px;
+  background-color: white;
+}
+
+div.link2{
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2100px;
+  right: -1830px;
+  width: 350px;
+  font-size: 20px;
+  background-color: white;
+}
